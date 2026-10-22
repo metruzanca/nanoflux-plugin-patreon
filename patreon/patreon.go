@@ -1,4 +1,4 @@
-// Package patreon is the native plugin for Patreon creator feeds. Patreon has
+// Package patreon is the plugin for Patreon creator feeds. Patreon has
 // no RSS, but its public web API is credential-free: a campaign is resolved from
 // the page's vanity slug, and its posts come from the campaign-filtered posts
 // endpoint (cursor-paginated). Treat it as best-effort.
